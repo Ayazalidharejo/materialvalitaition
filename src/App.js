@@ -1,11 +1,12 @@
 
 import './App.css';
-import Material from './Material';
+import Component from './Material';
+
 
 function App() {
   return (
     <div className="App">
-     <Material/>
+     <Component/>
     </div>
   );
 }
